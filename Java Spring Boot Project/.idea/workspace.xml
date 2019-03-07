@@ -1,104 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01ad968b-e28b-44a1-9853-f355ad486ca5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/common/footer.jspf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/common/header.jspf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/common/navigation.jspf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/list-todos.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/todo.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/welcome.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/Alikhan/springboot/web/SpringBootFirstWebApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Study/Java Spring/spring-boot-web-application-bootstrap-jquery/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Study/Java Spring/spring-boot-web-application-bootstrap-jquery/code-nov-2017.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Study/Java Spring/spring-boot-web-application-bootstrap-jquery/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Study/Java Spring/spring-boot-web-application-bootstrap-jquery/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Study/Java Spring/spring-boot-web-application-bootstrap-jquery/src/main/java/com/in28minutes/springboot/tutorial/basics/application/configuration/AddController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Study/Java Spring/spring-boot-web-application-bootstrap-jquery/src/main/java/com/in28minutes/springboot/tutorial/basics/application/configuration/SpringBootWebApplicationBootstrapJqueryApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Study/Java Spring/spring-boot-web-application-bootstrap-jquery/src/main/java/com/in28minutes/springboot/tutorial/basics/application/configuration/WelcomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Study/Java Spring/spring-boot-web-application-bootstrap-jquery/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Study/Java Spring/spring-boot-web-application-bootstrap-jquery/src/main/resources/static/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Study/Java Spring/spring-boot-web-application-bootstrap-jquery/src/main/resources/static/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Study/Java Spring/spring-boot-web-application-bootstrap-jquery/src/main/webapp/WEB-INF/jsp/welcome.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Study/Java Spring/spring-boot-web-application-bootstrap-jquery/src/test/java/com/in28minutes/springboot/tutorial/basics/application/configuration/SpringBootWebApplicationBootstrapJqueryApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Study/bhle-labs-master/bhle-lab-1/bhle-lab-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Study/bhle-labs-master/bhle-lab-1/build.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Study/bhle-labs-master/bhle-lab-1/project/build.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Study/bhle-labs-master/bhle-lab-1/src/main/main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Study/bhle-labs-master/bhle-lab-1/src/main/scala/part1/Lab2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/bitbucket-pipelines.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/main/java/com/example/demo/BootDemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/main/java/com/example/demo/controller/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/main/java/com/example/demo/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/main/java/com/example/demo/converter/SkillConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/main/java/com/example/demo/converter/UserConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/main/java/com/example/demo/dto/SkillDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/main/java/com/example/demo/dto/UserDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/main/java/com/example/demo/entity/Skill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/main/java/com/example/demo/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/main/java/com/example/demo/repository/SkillRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/main/java/com/example/demo/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/main/java/com/example/demo/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/main/java/com/example/demo/service/impl/UserServiceimpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/main/java/com/example/demo/utils/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/main/resources/static/css/app/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/main/resources/static/css/lib/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/main/resources/static/js/app/UserController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/main/resources/static/js/app/UserService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/main/resources/static/js/app/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/main/resources/static/js/lib/angular.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/main/resources/static/js/lib/ui-bootstrap-tpls-2.5.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/main/resources/static/views/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ashish1991-demo-ef5de51e25e9/src/test/java/com/example/demo/BootDemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/src/main/java/com/in28minutes/springboot/web/DatabaseConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/src/main/java/com/in28minutes/springboot/web/SpringBootFirstWebApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/src/main/java/com/in28minutes/springboot/web/controller/ErrorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/src/main/java/com/in28minutes/springboot/web/controller/LogoutController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/src/main/java/com/in28minutes/springboot/web/controller/TodoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/src/main/java/com/in28minutes/springboot/web/controller/WelcomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/src/main/java/com/in28minutes/springboot/web/model/Todo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/src/main/java/com/in28minutes/springboot/web/security/SecurityConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/src/main/java/com/in28minutes/springboot/web/service/TodoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/src/main/webapp/WEB-INF/jsp/common/footer.jspf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/src/main/webapp/WEB-INF/jsp/common/header.jspf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/src/main/webapp/WEB-INF/jsp/common/navigation.jspf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/src/main/webapp/WEB-INF/jsp/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/src/main/webapp/WEB-INF/jsp/list-todos.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/src/main/webapp/WEB-INF/jsp/todo.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/src/main/webapp/WEB-INF/jsp/update.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/src/main/webapp/WEB-INF/jsp/welcome.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/SpringBoot/src/test/java/com/in28minutes/springboot/web/SpringBootFirstWebApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/step32/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/step32/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/step32/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../folder/step32/spring-boot-first-web-application-git.iml" afterDir="false" />
+    <list default="true" id="51290acd-2bf8-4e19-a9d1-a23ef063611c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Step25/com/in28minutes/springboot/web/DatabaseConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Step25/com/in28minutes/springboot/web/SpringBootFirstWebApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Step25/com/in28minutes/springboot/web/controller/ErrorController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Step25/com/in28minutes/springboot/web/controller/LogoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Step25/com/in28minutes/springboot/web/controller/TodoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Step25/com/in28minutes/springboot/web/controller/WelcomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Step25/com/in28minutes/springboot/web/model/Todo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Step25/com/in28minutes/springboot/web/security/SecurityConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Step25/com/in28minutes/springboot/web/service/TodoService.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -108,105 +24,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/springboot/web/DatabaseConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/springboot/web/SpringBootFirstWebApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/springboot/web/controller/ErrorController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/springboot/web/controller/TodoController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/springboot/web/security/SecurityConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/springboot/web/service/TodoService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/springboot/web/model/Todo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/springboot/web/controller/LogoutController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/in28minutes/springboot/web/controller/TodoController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/in28minutes/springboot/web/service/TodoService.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="815" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -221,69 +45,7 @@
           <expand>
             <path>
               <item name="spring-boot-first-web-application" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Step25" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-first-web-application" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Step25" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-first-web-application" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Step25" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-first-web-application" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Step25" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-first-web-application" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Step25" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-first-web-application" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Step25" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-first-web-application" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Step25" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-first-web-application" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Step25" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-first-web-application" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Step25" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="Java Spring Boot Project" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -292,12 +54,6 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelOrder2" value="2" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -327,8 +83,8 @@
   <component name="SbtLocalSettings">
     <option name="projectSyncType">
       <map>
-        <entry key="$PROJECT_DIR$/../Study/bhle-labs-master/bhle-lab-1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../bhle-labs-master/bhle-lab-1" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Study/bhle-labs-master/bhle-lab-1" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../bhle-labs-master/bhle-lab-1" value="PREVIEW" />
       </map>
     </option>
   </component>
@@ -337,122 +93,54 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="01ad968b-e28b-44a1-9853-f355ad486ca5" name="Default Changelist" comment="" />
-      <created>1551996073429</created>
+      <changelist id="51290acd-2bf8-4e19-a9d1-a23ef063611c" name="Default Changelist" comment="" />
+      <created>1551997108368</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551996073429</updated>
-      <workItem from="1551996075017" duration="330000" />
+      <updated>1551997108368</updated>
+      <workItem from="1551997111529" duration="96000" />
+      <workItem from="1551997245563" duration="54000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="330000" />
+    <option name="totallyTimeSpent" value="150000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="813" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="815" extended-state="0" />
     <layout>
-      <window_info id="Web" side_tool="true" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32965517" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33148405" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Bean Validation" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Spring" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Bean Validation" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/springboot/web/SpringBootFirstWebApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/springboot/web/DatabaseConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/springboot/web/controller/LogoutController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/springboot/web/controller/TodoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/springboot/web/model/Todo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/springboot/web/controller/ErrorController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/springboot/web/security/SecurityConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/springboot/web/service/TodoService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
