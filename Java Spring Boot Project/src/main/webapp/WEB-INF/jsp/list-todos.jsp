@@ -1,6 +1,8 @@
 <%@ include file="common/header.jspf" %>
 <%@ include file="common/navigation.jspf" %>
-	
+
+
+	<body style="background-color:powderblue;">
 	<div class="container">
 		<table class="table table-striped">
 			<caption>Your todos are</caption>
@@ -31,4 +33,5 @@
 			<a class="button" href="/add-todo">Add a Todo</a>
 		</div>
 	</div>
+
 <%@ include file="common/footer.jspf" %>

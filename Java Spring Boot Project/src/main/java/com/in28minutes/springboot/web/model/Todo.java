@@ -1,5 +1,6 @@
 package com.in28minutes.springboot.web.model;
 
+import javax.annotation.sql.DataSourceDefinition;
 import javax.validation.constraints.Size;
 
 public class Todo {

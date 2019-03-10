@@ -5,22 +5,30 @@ import java.util.List;
 
 import com.in28minutes.springboot.web.model.Todo;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cache.annotation.CacheConfig;
+import org.springframework.cache.annotation.CachePut;
+import org.springframework.cache.annotation.Cacheable;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
+import java.util.Random;
 
 @Service()
 @Component
 
+@CacheConfig
+
 public class TodoService {
+
     @Autowired
     private JdbcTemplate jdbcTemplate;
-    private static int todoCount = 100;
 
+    @Cacheable("Cachefiles")
     public List<Todo> retrieveTodos(String userName) {
         String sql = "SELECT * FROM todo_list";
         List<Todo> filteredTodos = jdbcTemplate.query(sql, new BeanPropertyRowMapper(Todo.class));
+        simulateSlowService();
         return filteredTodos;
     }
 
@@ -36,10 +44,12 @@ public class TodoService {
         deleteTodo(id);
         addTodo(todo.getUsername(), todo.getDescription(), todo.getTargetDate(), todo.getIsDone());
     }
-
+    @CachePut
     public void addTodo(String username, String description, String targetDate,
                         boolean isDone) {
-        Todo cur = new Todo(++todoCount, username, description, targetDate, isDone);
+        Random rand = new Random();
+        int rnd = rand.nextInt(Integer.MAX_VALUE);
+        Todo cur = new Todo(rnd, username, description, targetDate, isDone);
         String sql = String.format("INSERT INTO todo_list (id, username, description, targetDate, isDone) VALUES('%s','%s','%s','%s','%s')", cur.getId(), cur.getUsername(), cur.getDescription(), cur.getTargetDate(), cur.getIsDone());
         jdbcTemplate.execute(sql);
     }
@@ -47,6 +57,14 @@ public class TodoService {
     public void deleteTodo(int id) {
         String sql = String.format("DELETE FROM todo_list WHERE id = %d",id);
         jdbcTemplate.execute(sql);
+    }
+
+    private void simulateSlowService() {
+        try {
+            Thread.sleep(3000L);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
     }
 
 
