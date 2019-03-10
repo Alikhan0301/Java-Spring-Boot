@@ -17,7 +17,8 @@ import java.util.Random;
 @Service()
 @Component
 
-@CacheConfig
+@CacheConfig(cacheNames = "Todos")
+
 
 public class TodoService {
 
